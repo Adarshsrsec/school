@@ -1,0 +1,20 @@
+.nav-link{
+    font-size: 20px !important;
+    font-weight: 500 !important;  
+    color: rgb(233, 229, 229) !important;
+}
+
+.nav-link:hover{
+    background-color: rgb(255, 255, 255) !important;
+    color: black !important;
+    border-radius: 10px !important;
+}
+
+.designer_icons a{
+    text-decoration: none;
+    color: white;
+}
+/* body {
+background-color: #cfccb5; 
+background-color: #d4c4a4;
+} */
